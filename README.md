@@ -12,24 +12,24 @@ site : https://www.acmicpc.net/
 |7287|맞은 문제의 수와 아이디 출력||
 |10172|주어진 그림 출력하기|https://github.com/Peter-Roh/Baekjoon_java/blob/master/10172.java|
 |10718|주어진 문구 출력하기|https://github.com/Peter-Roh/Baekjoon_java/blob/master/10718.java|
-|11718|입력받은 그대로 출력하기 1||
-|11719|입력받은 그대로 출력하기 2||
-|10998|A * B 출력||
+|11718|입력받은 그대로 출력하기 1|https://github.com/Peter-Roh/Baekjoon_java/blob/master/11718.java|
+|11719|입력받은 그대로 출력하기 2|https://github.com/Peter-Roh/Baekjoon_java/blob/master/11719.java|
+|10998|A * B 출력|https://github.com/Peter-Roh/Baekjoon_java/blob/master/10998.java|
 |1008|A - B 출력|https://github.com/Peter-Roh/Baekjoon_java/blob/master/1008.java|
-|10869|사칙연산 출력||
+|10869|사칙연산 출력|https://github.com/Peter-Roh/Baekjoon_java/blob/master/10869.java|
 |10430|주어진 식의 값 비교하기|https://github.com/Peter-Roh/Baekjoon_java/blob/master/10430.java|
 |2558|A + B 출력 - 2||
 |2839|설탕 배달 최소 봉지 개수 구하기||
 |2741|1부터 N까지 출력하기||
 |2742|N부터 1까지 출력하기||
 |2739|구구단 N단 출력하기||
-|2438|별찍기 - 1||
-|2439|별찍기 - 2||
-|2440|별찍기 - 3||
-|2441|별찍기 - 4||
-|1924|2007년 x월 y일의 요일 출력하기||
+|2438|별찍기 - 1|https://github.com/Peter-Roh/Baekjoon_java/blob/master/2438.java|
+|2439|별찍기 - 2|https://github.com/Peter-Roh/Baekjoon_java/blob/master/2439.java|
+|2440|별찍기 - 3|https://github.com/Peter-Roh/Baekjoon_java/blob/master/2440.java|
+|2441|별찍기 - 4|https://github.com/Peter-Roh/Baekjoon_java/blob/master/2441.java|
+|1924|2007년 x월 y일의 요일 출력하기|https://github.com/Peter-Roh/Baekjoon_java/blob/master/1924.java|
 |8393|1부터 N까지 합 구하기||
-|11720|공백없이 주어진 숫자 N개의 합 구하기||
+|11720|공백없이 주어진 숫자 N개의 합 구하기|https://github.com/Peter-Roh/Baekjoon_java/blob/master/11720.java|
 |11721|10개씩 끊어서 출력하기||
 |15552|빠른 A + B||
 |9498|시험 점수 입력 받고 성적 출력하기||
