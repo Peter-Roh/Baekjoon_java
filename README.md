@@ -37,3 +37,4 @@ site : https://www.acmicpc.net/
 |[10817](https://www.acmicpc.net/problem/10817)|[세 정수 중 두 번째로 큰 정수 찾기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/10817.java)|
 |[10871](https://www.acmicpc.net/problem/10871)|[정수 N개 중 X보다 작은 수 모두 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/10871.java)|
 |[1546](https://www.acmicpc.net/problem/1546)|[최대값을 찾아 점수 조작하고 새로운 평균 구하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1546.java)|
+|[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/4344.java)|
