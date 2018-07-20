@@ -39,3 +39,4 @@ site : https://www.acmicpc.net/
 |[1546](https://www.acmicpc.net/problem/1546)|[최대값을 찾아 점수 조작하고 새로운 평균 구하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1546.java)|
 |[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/4344.java)|
 |[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1110.java)|
+|[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1152.java)|
