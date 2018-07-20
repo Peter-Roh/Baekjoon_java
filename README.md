@@ -40,3 +40,4 @@ site : https://www.acmicpc.net/
 |[4344](https://www.acmicpc.net/problem/4344)|[평균을 넘는 학생의 비율 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/4344.java)|
 |[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1110.java)|
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1152.java)|
+|[2577](https://www.acmicpc.net/problem/2577)|[세 수를 곱한 수에 0부터 9까지의 수가 몇 번 쓰였는지 출력](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2577.java)|
