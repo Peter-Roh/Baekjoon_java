@@ -42,3 +42,4 @@ site : https://www.acmicpc.net/
 |[1110](https://www.acmicpc.net/problem/1110)|[조건을 만족할 때까지 계속 더하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1110.java)|
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1152.java)|
 |[2577](https://www.acmicpc.net/problem/2577)|[세 수를 곱한 수에 0부터 9까지의 수가 몇 번 쓰였는지 출력](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2577.java)|
+|[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/8958.java)|
