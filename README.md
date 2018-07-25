@@ -43,3 +43,4 @@ site : https://www.acmicpc.net/
 |[1152](https://www.acmicpc.net/problem/1152)|[단어 수 세기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1152.java)|
 |[2577](https://www.acmicpc.net/problem/2577)|[세 수를 곱한 수에 0부터 9까지의 수가 몇 번 쓰였는지 출력](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2577.java)|
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/8958.java)|
+|[2920](https://www.acmicpc.net/problem/2920)|[주어진 배열이 오름차순인지 아닌지 판단하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2920.java)|
