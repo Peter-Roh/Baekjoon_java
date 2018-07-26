@@ -45,3 +45,4 @@ site : https://www.acmicpc.net/
 |[8958](https://www.acmicpc.net/problem/8958)|[OX퀴즈 규칙에 따라 점수 매기기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/8958.java)|
 |[2920](https://www.acmicpc.net/problem/2920)|[주어진 배열이 오름차순인지 아닌지 판단하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2920.java)|
 |[10039](https://www.acmicpc.net/problem/10039)|[평균 점수 구하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/10039.java)|
+|[11654](https://www.acmicpc.net/problem/11654)|[아스키 코드 값 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/11654.java)|
