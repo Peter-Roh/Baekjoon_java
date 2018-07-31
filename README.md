@@ -50,3 +50,4 @@ site : https://www.acmicpc.net/
 |[2675](https://www.acmicpc.net/problem/2675)|[문자열의 각 문자 반복해서 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2675.java)|
 |[1157](https://www.acmicpc.net/problem/1157)|[주어진 단어에서 가장 많이 사용된 알파벳 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1157.java)|
 |[1316](https://www.acmicpc.net/problem/1316)|[그룹 단어의 개수 출력하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/1316.java)|
+|[2908](https://www.acmicpc.net/problem/2908)|[숫자 뒤집어서 비교하기](https://github.com/Peter-Roh/Baekjoon_java/blob/master/2908.java)|
